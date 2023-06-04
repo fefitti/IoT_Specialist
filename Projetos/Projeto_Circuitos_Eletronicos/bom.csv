@@ -1,0 +1,6 @@
+﻿Nome,Quantidade,Componente
+"UProjeto de Circuitos Eletrônicos - IoT",1," Arduino Uno R3"
+"U1",1," Sensor de temperatura [TMP36]"
+"PIEZO1",1," Piezo"
+"D1",1,"Vermelho LED"
+"M2",1," Motor de engrenagem de uso não profissional"
